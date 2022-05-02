@@ -1,0 +1,40 @@
+produtos = [
+    {"nome": "Notebook", "preco": 2000},
+    {"nome": "Mouse", "preco": 20},
+    {"nome": "Teclado", "preco": 50},
+    {"nome": "Monitor", "preco": 200},
+    {"nome": "Impressora", "preco": 100},
+    {"nome": "Celular", "preco": 5000},
+    {"nome": "Tablet", "preco": 300},
+    {"nome": "Câmera", "preco": 150.2},
+    {"nome": "Laptop", "preco": 1000},
+    {"nome": "Cadeira", "preco": 50},
+    {"nome": "Mesa", "preco": 100.4},
+    {"nome": "Fogão", "preco": 150.1},
+    {"nome": "Microondas", "preco": 50},
+    {"nome": "TV", "preco": 200},
+    {"nome": "Geladeira", "preco": 300},
+    {"nome": "Freezer", "preco": 100},
+    {"nome": "Congelador", "preco": 150},
+    {"nome": "Ventilador", "preco": 50},
+    {"nome": "Ar-condicionado", "preco": 200},
+    {"nome": "Cafeteira", "preco": 300},
+]
+
+lista = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+pessoas = [
+    {"nome": "João", "idade": 20},
+    {"nome": "Maria", "idade": 25},
+    {"nome": "José", "idade": 30},
+    {"nome": "Pedro", "idade": 35},
+    {"nome": "Joana", "idade": 40},
+    {"nome": "Eduarda", "idade": 45},
+    {"nome": "Kleber", "idade": 50},
+    {"nome": "Roberto", "idade": 55},
+    {"nome": "Diego", "idade": 23},
+    {"nome": "Ana", "idade": 65},
+    {"nome": "Max", "idade": 10},
+    {"nome": "Diniz", "idade": 31},
+    {"nome": "Jonas", "idade": 18},
+]
